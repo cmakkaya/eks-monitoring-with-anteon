@@ -15,33 +15,33 @@ For EKS monitoring with Anteon article series
 
 1. Kubernetes Cluster Monitoring and Anteon
 2. Hands-on Experience Setting up Microservices on Kubernetes and Monitoring
-3. Creating an Amazon EKS cluster 
-3.1. Connecting to the Jenkins Server
-3.2. Creating a “cluster.yaml” file
-3.3. Creating a cluster using “eksctl” on Amazon EKS
-3.4. Creating an Ingress Controller
-4. Creating a GitHub Repository for Source Code Management 
-5. Creating an Amazon ECR Repository for Artifact
-6. Creating Amazon S3 Bucket
-7. Installing and Integrating the Amazon RDS MySql Database for Customer Records into the Microservices App
-8. Preparing and Running The Jenkins File and CI/CD Pipeline for Kubernetes on AWS EKS
-9. Setting Domain Name and TLS/SSL Certificate for Microservices App Using Amazon Route 53, Let’s Encrypt, and Cert Manager.
-9.1. Creating an “A” record
-9.2. Creating Cert-Manager
-9.3. Creating Let’s Encrypt
-9.4. Modifying ingress.yaml file
-10. Checking the output of the CI/CD Pipeline on the browser.
-11. Monitoring Kubernetes Clusters on Amazon EKS with Anteon 
-11.1. Creating an Anteon Account
-11.2. Using Anteon Cloud as a Complete SaaS Solution for Kubernetes Monitoring
-11.3. Viewing Statistics About The Kubernetes Instances Using Kubernetes Metrics
-11.4. Viewing The Interactions Between The Resources in The K8s Cluster Using the Anteon Service Map 
-11.5. Viewing Distributed Tracing 
-11.6. Viewing Cluster’s Logs
-12. Setting an alarm for the K8s Cluster Using Anteon Alerts, and Getting an Alerting Message Via Mail When Running a Dummy Load 
-13. Conclusion
-14. Next post
-15. References
+3. Creating an Amazon EKS cluster
+* 3.1. Connecting to the Jenkins Server
+* 3.2. Creating a “cluster.yaml” file
+* 3.3. Creating a cluster using “eksctl” on Amazon EKS
+* 3.4. Creating an Ingress Controller
+5. Creating a GitHub Repository for Source Code Management 
+6. Creating an Amazon ECR Repository for Artifact
+7. Creating Amazon S3 Bucket
+8. Installing and Integrating the Amazon RDS MySql Database for Customer Records into the Microservices App
+9. Preparing and Running The Jenkins File and CI/CD Pipeline for Kubernetes on AWS EKS
+10. Setting Domain Name and TLS/SSL Certificate for Microservices App Using Amazon Route 53, Let’s Encrypt, and Cert Manager.
+* 10.1. Creating an “A” record
+* 10.2. Creating Cert-Manager
+* 10.3. Creating Let’s Encrypt
+* 10.4. Modifying ingress.yaml file
+11. Checking the output of the CI/CD Pipeline on the browser.
+12. Monitoring Kubernetes Clusters on Amazon EKS with Anteon 
+* 12.1. Creating an Anteon Account
+* 12.2. Using Anteon Cloud as a Complete SaaS Solution for Kubernetes Monitoring
+* 12.3. Viewing Statistics About The Kubernetes Instances Using Kubernetes Metrics
+* 12.4. Viewing The Interactions Between The Resources in The K8s Cluster Using the Anteon Service Map 
+* 12.5. Viewing Distributed Tracing 
+* 12.6. Viewing Cluster’s Logs
+13. Setting an alarm for the K8s Cluster Using Anteon Alerts, and Getting an Alerting Message Via Mail When Running a Dummy Load 
+14. Conclusion
+15. Next post
+16. References
 
 #### If you like the article, I will be happy if you click on the  <a href="https://cmakkaya.medium.com/" target="blank"><img align="center" src="https://upload.vectorlogo.zone/logos/medium/images/43c41ba8-9de2-453d-92dc-500dab4e316a.svg" alt="https://cmakkaya.medium.com/" height="45" width="35" /></a> [Medium](https://cmakkaya.medium.com/) Following button to encourage me to write more, and not miss future articles.
 
