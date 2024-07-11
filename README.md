@@ -2,7 +2,8 @@
 For EKS monitoring with Anteon article series
 
 ![Anteon-EKS-article](https://github.com/cmakkaya/eks-monitoring-with-anteon/assets/110052470/246e86af-a273-4987-a82c-90fc45495b67)
-Check Out This Latest Guide and Learn:
+
+## Check Out This Latest Guide and Learn:
 - Amazon EKS setup
 - CI/CD pipeline building
 - Kubernetes monitoring
