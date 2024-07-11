@@ -9,9 +9,9 @@ For EKS monitoring with Anteon article series
 - Kubernetes monitoring
 - and more ...
 
-Article link (in Anteon Blog): [📝 Step-by-Step Tutorial to Set Up, Build a CI/CD Deployment Pipeline, and Monitor a Kubernetes Cluster on Amazon EKS.](https://getanteon.com/blog/step-by-step-tutorial-to-set-up-build-a-ci-cd-deployment-pipeline-and-monitor-a-kubernetes-cluster-on-amazon-eks/#introduction-eff7fbbc-ce09-41ed-84b8-48a4392799dd)
+#### Article link (in Anteon Blog): [📝 Step-by-Step Tutorial to Set Up, Build a CI/CD Deployment Pipeline, and Monitor a Kubernetes Cluster on Amazon EKS.](https://getanteon.com/blog/step-by-step-tutorial-to-set-up-build-a-ci-cd-deployment-pipeline-and-monitor-a-kubernetes-cluster-on-amazon-eks/#introduction-eff7fbbc-ce09-41ed-84b8-48a4392799dd)
 
-🔍 We will do these practically step by step in this article;
+#### 🔍 We will do these practically step by step in this article;
 
 1. Kubernetes Cluster Monitoring and Anteon
 2. Hands-on Experience Setting up Microservices on Kubernetes and Monitoring
@@ -42,3 +42,13 @@ Article link (in Anteon Blog): [📝 Step-by-Step Tutorial to Set Up, Build a CI
 13. Conclusion
 14. Next post
 15. References
+
+#### If you like the article, I will be happy if you click on the  <a href="https://cmakkaya.medium.com/" target="blank"><img align="center" src="https://upload.vectorlogo.zone/logos/medium/images/43c41ba8-9de2-453d-92dc-500dab4e316a.svg" alt="https://cmakkaya.medium.com/" height="45" width="35" /></a> [Medium](https://cmakkaya.medium.com/) Following button to encourage me to write more, and not miss future articles.
+
+#### Connect with me 📫 You can learn more about me. 
+<a href="https://cumhur.akkaya.link/" target="blank"><img align="center" src="https://github.com/cmakkaya/cmakkaya/blob/main/pictures/person.jpg" height="30" width="30" /></a> [Portfolio Page](https://cumhur.akkaya.link/)
+
+<p align="left">
+<a href="https://www.linkedin.com/in/cumhurakkaya/" target="LinkedIn"><img align="center" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg"alt="https://www.linkedin.com/in/cumhurakkaya/" height="30" width="30" /></a> https://www.linkedin.com/in/cumhurakkaya 
+
+
