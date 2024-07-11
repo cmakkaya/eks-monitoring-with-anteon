@@ -1,5 +1,10 @@
-# eks-monitoring-with-anteon
+# eks-monitoring-with-anteon. 
 For EKS monitoring with Anteon article series
+
+## Hi there, <img src = "https://github.com/cmakkaya/cmakkaya/blob/main/wavehand.gif" width = "40" align="center"> Nice to see you. <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="40"/>
+
+### ⭐ Also, thank you for giving `stars` to my GitHub repository.
+------------------------------------------
 
 ![Anteon-EKS-article](https://github.com/cmakkaya/eks-monitoring-with-anteon/assets/110052470/246e86af-a273-4987-a82c-90fc45495b67)
 
